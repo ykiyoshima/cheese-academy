@@ -1,5 +1,8 @@
 # Cheese Academy
 
+## Demo
+https://github.com/ykiyoshima/cheese-academy
+
 ## About Cheese Academy
 
 - G's ACADEMY FUKUOKA LAB コースの第 0 回目の課題
