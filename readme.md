@@ -4,17 +4,17 @@
 
 - G's ACADEMY FUKUOKA LAB コースの第 0 回目の課題
 
-## こだわったポイント
+## Good Point
 
 - 実際の Web サイトのような UI/UX を追求
 - マジメなところはマジメに、ふざけるところはふざけました
 
-## 苦戦したポイント
+## Bad Point
 
 - 入力フォームのところで table タグでしかレイアウトを整えられなかった
 - NEWS の More ボタンを押したときの処理はゴリ押しました
 
-## 使い方
+## How to Use
 
 - ブラウザで index.html を読み込む
 - That's all. Thank you.
