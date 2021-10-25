@@ -1,7 +1,7 @@
 # Cheese Academy
 
 ## Demo
-https://github.com/ykiyoshima/cheese-academy
+https://ykiyoshima.github.io/cheese-academy
 
 ## About Cheese Academy
 
